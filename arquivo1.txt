@@ -1,1 +1,2 @@
 Engado Liña 1 arquivo1
+user2 Engado liña para conflicto no arquivo1
